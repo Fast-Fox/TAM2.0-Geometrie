@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Middelburg - Kleverskerke (WK068751)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK068751", "wijknaam": "Kleverskerke", "gemeenteco": "GM0687", "gemeentena": "Middelburg", "indelingsw": 1, "water": "NEE", "omgevingsa": 19, "stedelijkh": 5, "bevolkings": 889, "aantalInwo": 60, "mannen": 30, "vrouwen": 35, "percentage": 10, "percenta_1": 5, "percenta_2": 21, "percenta_3": 42, "percenta_4": 23, "percenta_5": 31, "percenta_6": 56, "percenta_7": 5, "percenta_8": 8, "aantalHuis": 30, "percenta_9": 30, "percenta10": 37, "percenta11": 33, "gemiddelde": 2.1, "percenta12": 2, "percenta13": 0, "percenta14": -99999999, "percenta15": -99999999, "percenta16": -99999999, "percenta17": -99999999, "percenta18": -99999999, "oppervlakt": 7, "oppervla_1": 7, "oppervla_2": 0, "jrstatcode": "2022WK068751", "jaar": 2022, "fuuid": "wijken.bbfd8a50-cfc7-4a57-9230-387c73aef716", "Bestandsna": "Middelburg - Kleverskerke (WK068751)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 3.667920746314972, 51.519420186028171 ], [ 3.667083339819032, 51.519230025955572 ], [ 3.666299397383608, 51.519097107079205 ], [ 3.664642408201561, 51.518745429772096 ], [ 3.664754238428336, 51.518266094835681 ], [ 3.663114447568354, 51.517872394334631 ], [ 3.662493829470549, 51.519839133137708 ], [ 3.664014548696959, 51.520155745592518 ], [ 3.664728476961813, 51.520539377182772 ], [ 3.666763625740677, 51.521162738372858 ], [ 3.667920746314972, 51.519420186028171 ] ] ] ] } }
+]
+}

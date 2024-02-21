@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Westland - Wijk 10 Ter Heijde (WK178310)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK178310", "wijknaam": "Wijk 10 Ter Heijde", "gemeenteco": "GM1783", "gemeentena": "Westland", "indelingsw": 1, "water": "NEE", "omgevingsa": 1368, "stedelijkh": 3, "bevolkings": 6138, "aantalInwo": 730, "mannen": 340, "vrouwen": 390, "percentage": 18, "percenta_1": 9, "percenta_2": 24, "percenta_3": 26, "percenta_4": 22, "percenta_5": 49, "percenta_6": 37, "percenta_7": 9, "percenta_8": 5, "aantalHuis": 325, "percenta_9": 28, "percenta10": 33, "percenta11": 40, "gemiddelde": 2.2, "percenta12": 9, "percenta13": 8, "percenta14": 2, "percenta15": 1, "percenta16": 1, "percenta17": 1, "percenta18": 3, "oppervlakt": 12, "oppervla_1": 12, "oppervla_2": 0, "jrstatcode": "2022WK178310", "jaar": 2022, "fuuid": "wijken.e6b6d939-c059-4f39-9837-e03440202b49", "Bestandsna": "Westland - Wijk 10 Ter Heijde (WK178310)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 4.172665697082296, 52.031213247331159 ], [ 4.16806872584401, 52.028723890585063 ], [ 4.165712956457762, 52.027448015897356 ], [ 4.164031338406194, 52.028524601591201 ], [ 4.170476491124842, 52.032539307181835 ], [ 4.172665697082296, 52.031213247331159 ] ] ] ] } }
+]
+}

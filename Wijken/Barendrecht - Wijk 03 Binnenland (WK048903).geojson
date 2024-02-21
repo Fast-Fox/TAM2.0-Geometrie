@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Barendrecht - Wijk 03 Binnenland (WK048903)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK048903", "wijknaam": "Wijk 03 Binnenland", "gemeenteco": "GM0489", "gemeentena": "Barendrecht", "indelingsw": 1, "water": "NEE", "omgevingsa": 1528, "stedelijkh": 2, "bevolkings": 7299, "aantalInwo": 1075, "mannen": 535, "vrouwen": 540, "percentage": 14, "percenta_1": 10, "percenta_2": 28, "percenta_3": 30, "percenta_4": 18, "percenta_5": 46, "percenta_6": 41, "percenta_7": 10, "percenta_8": 3, "aantalHuis": 520, "percenta_9": 39, "percenta10": 28, "percenta11": 33, "gemiddelde": 2.1, "percenta12": 9, "percenta13": 15, "percenta14": 2, "percenta15": 1, "percenta16": 3, "percenta17": 3, "percenta18": 7, "oppervlakt": 15, "oppervla_1": 15, "oppervla_2": 0, "jrstatcode": "2022WK048903", "jaar": 2022, "fuuid": "wijken.0d5d4fbf-9b19-4a75-9cb2-48dc49acae0f", "Bestandsna": "Barendrecht - Wijk 03 Binnenland (WK048903)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 4.550982011678957, 51.856865096786088 ], [ 4.551788419631017, 51.855995164713974 ], [ 4.548079025419286, 51.855512178760897 ], [ 4.54787266287607, 51.856264983271075 ], [ 4.545760633197595, 51.856071222200107 ], [ 4.545566842905572, 51.85614923095185 ], [ 4.544992895607417, 51.8559863216121 ], [ 4.544474679289555, 51.855880108621008 ], [ 4.543915768229847, 51.858300976773094 ], [ 4.544019936887364, 51.85830172478348 ], [ 4.543920431940828, 51.858479655211106 ], [ 4.545488786327221, 51.858610004524444 ], [ 4.5453863177798, 51.858946709993489 ], [ 4.548680751269713, 51.859347418865198 ], [ 4.550982011678957, 51.856865096786088 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Doggersbank",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "naamN2K": "Doggersbank", "vhnNew": 2, "nr": 164, "beschermin": "HR", "sitecodeV": null, "sitecodeH": "NL2008001", "status": "Natura2000-besluit 16 juni 2016", "kadaster": "niet van toepassing", "staatscour": "2016/31360", "fuuid": "n2000.869bcbf1-99b0-474b-9877-300077d54757" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 4.260071366181305, 55.365153043262708 ], [ 2.763285487301856, 54.378885649504475 ], [ 2.898460718720935, 54.620433758687042 ], [ 2.957047375317147, 54.770440259372869 ], [ 3.083435524233797, 55.080583869858721 ], [ 3.211226902696942, 55.381939453319461 ], [ 3.252237294957794, 55.480926652623396 ], [ 3.635784062075997, 55.645090388428052 ], [ 4.260071366181305, 55.365153043262708 ] ] ] ] } }
+]
+}

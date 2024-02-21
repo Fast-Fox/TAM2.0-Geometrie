@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Goirle - Wijk 22 Sportpark De Krim (WK078522)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK078522", "wijknaam": "Wijk 22 Sportpark De Krim", "gemeenteco": "GM0785", "gemeentena": "Goirle", "indelingsw": 1, "water": "NEE", "omgevingsa": 194, "stedelijkh": 5, "bevolkings": -99999999, "aantalInwo": 0, "mannen": 0, "vrouwen": 0, "percentage": -99999999, "percenta_1": -99999999, "percenta_2": -99999999, "percenta_3": -99999999, "percenta_4": -99999999, "percenta_5": -99999999, "percenta_6": -99999999, "percenta_7": -99999999, "percenta_8": -99999999, "aantalHuis": 0, "percenta_9": -99999999, "percenta10": -99999999, "percenta11": -99999999, "gemiddelde": -99999999.0, "percenta12": -99999999, "percenta13": -99999999, "percenta14": -99999999, "percenta15": -99999999, "percenta16": -99999999, "percenta17": -99999999, "percenta18": -99999999, "oppervlakt": 4, "oppervla_1": 4, "oppervla_2": 0, "jrstatcode": "2022WK078522", "jaar": 2022, "fuuid": "wijken.50a575b9-a735-46f1-9d95-9976053b046e", "Bestandsna": "Goirle - Wijk 22 Sportpark De Krim (WK078522)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.020783398676794, 51.520251889215928 ], [ 5.018880000658188, 51.517706776323195 ], [ 5.016950636375759, 51.518377780221719 ], [ 5.01829423844891, 51.519982451062241 ], [ 5.01887986850783, 51.520769120297985 ], [ 5.020783398676794, 51.520251889215928 ] ] ] ] } }
+]
+}

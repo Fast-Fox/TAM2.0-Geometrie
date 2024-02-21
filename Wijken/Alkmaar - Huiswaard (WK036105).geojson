@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alkmaar - Huiswaard (WK036105)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK036105", "wijknaam": "Huiswaard", "gemeenteco": "GM0361", "gemeentena": "Alkmaar", "indelingsw": 1, "water": "NEE", "omgevingsa": 2221, "stedelijkh": 2, "bevolkings": 6977, "aantalInwo": 7585, "mannen": 3720, "vrouwen": 3865, "percentage": 16, "percenta_1": 11, "percenta_2": 26, "percenta_3": 24, "percenta_4": 23, "percenta_5": 49, "percenta_6": 35, "percenta_7": 11, "percenta_8": 5, "aantalHuis": 3675, "percenta_9": 42, "percenta10": 26, "percenta11": 32, "gemiddelde": 2.1, "percenta12": 12, "percenta13": 17, "percenta14": 2, "percenta15": 1, "percenta16": 2, "percenta17": 2, "percenta18": 10, "oppervlakt": 114, "oppervla_1": 109, "oppervla_2": 6, "jrstatcode": "2022WK036105", "jaar": 2022, "fuuid": "wijken.40fa6b6c-312b-4e23-9eb6-8fa8b7b1857c", "Bestandsna": "Alkmaar - Huiswaard (WK036105)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 4.752467075429671, 52.647438915063262 ], [ 4.757267974566333, 52.64799449273341 ], [ 4.764617107988981, 52.648896185106175 ], [ 4.768931119687808, 52.645957979527381 ], [ 4.76195123983458, 52.642868102271272 ], [ 4.756514355537998, 52.640459302483976 ], [ 4.755780737504733, 52.640134338996226 ], [ 4.753156072471074, 52.639454415784165 ], [ 4.749212155989809, 52.638921045351829 ], [ 4.746273168514, 52.638665450087501 ], [ 4.74428212836065, 52.645180952316906 ], [ 4.743886453296654, 52.646471468543396 ], [ 4.752467075429671, 52.647438915063262 ] ] ] ] } }
+]
+}

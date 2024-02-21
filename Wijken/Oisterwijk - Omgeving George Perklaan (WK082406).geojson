@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Oisterwijk - Omgeving George Perklaan (WK082406)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK082406", "wijknaam": "Omgeving George Perklaan", "gemeenteco": "GM0824", "gemeentena": "Oisterwijk", "indelingsw": 1, "water": "NEE", "omgevingsa": 912, "stedelijkh": 4, "bevolkings": 1939, "aantalInwo": 160, "mannen": 80, "vrouwen": 80, "percentage": 16, "percenta_1": 11, "percenta_2": 17, "percenta_3": 30, "percenta_4": 26, "percenta_5": 43, "percenta_6": 47, "percenta_7": 2, "percenta_8": 7, "aantalHuis": 70, "percenta_9": 30, "percenta10": 33, "percenta11": 36, "gemiddelde": 2.3, "percenta12": 9, "percenta13": 2, "percenta14": -99999999, "percenta15": -99999999, "percenta16": -99999999, "percenta17": -99999999, "percenta18": -99999999, "oppervlakt": 8, "oppervla_1": 8, "oppervla_2": 0, "jrstatcode": "2022WK082406", "jaar": 2022, "fuuid": "wijken.465ffbd9-1cc1-4d9e-a057-5a26dabd2a9a", "Bestandsna": "Oisterwijk - Omgeving George Perklaan (WK082406)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.201776205761854, 51.586398843331246 ], [ 5.202275243553986, 51.585312190426478 ], [ 5.202774258860698, 51.584225534383748 ], [ 5.201216924477805, 51.58385295678216 ], [ 5.199659615695412, 51.583480357539123 ], [ 5.199426917977561, 51.583424298181548 ], [ 5.198659673614753, 51.584097049635723 ], [ 5.198361832273513, 51.584637642731373 ], [ 5.198341373025276, 51.585466781187989 ], [ 5.198116072331162, 51.586675078479388 ], [ 5.201776205761854, 51.586398843331246 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Friese Front",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "naamN2K": "Friese Front", "vhnNew": 1, "nr": 166, "beschermin": "VR", "sitecodeV": "NL2016166", "sitecodeH": null, "status": "Natura2000-besluit 16 juni 2016", "kadaster": "niet van toepassing", "staatscour": "2016/31360", "fuuid": "n2000.dae737f9-e2cf-46fd-a2ff-49c9dd018cd5" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.226707395428833, 53.828527466247195 ], [ 4.21605537885129, 53.415370273505182 ], [ 4.214837998608626, 53.798931167414125 ], [ 5.233299986079953, 54.222279991425246 ], [ 5.226707395428833, 53.828527466247195 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Goirle - Wijk 10 De Nieuwe Erven (WK078510)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK078510", "wijknaam": "Wijk 10 De Nieuwe Erven", "gemeenteco": "GM0785", "gemeentena": "Goirle", "indelingsw": 1, "water": "NEE", "omgevingsa": 1002, "stedelijkh": 3, "bevolkings": 5255, "aantalInwo": 670, "mannen": 340, "vrouwen": 330, "percentage": 14, "percenta_1": 10, "percenta_2": 20, "percenta_3": 34, "percenta_4": 22, "percenta_5": 37, "percenta_6": 51, "percenta_7": 8, "percenta_8": 4, "aantalHuis": 280, "percenta_9": 22, "percenta10": 40, "percenta11": 39, "gemiddelde": 2.4, "percenta12": 7, "percenta13": 6, "percenta14": 1, "percenta15": 0, "percenta16": 0, "percenta17": 4, "percenta18": 2, "oppervlakt": 13, "oppervla_1": 13, "oppervla_2": 0, "jrstatcode": "2022WK078510", "jaar": 2022, "fuuid": "wijken.1b912486-469d-4bc4-8ffa-440203ca578f", "Bestandsna": "Goirle - Wijk 10 De Nieuwe Erven (WK078510)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.042206000365225, 51.522286999602528 ], [ 5.044647705505108, 51.521048555289028 ], [ 5.047343371762349, 51.519810809747966 ], [ 5.044247768402305, 51.516314016638013 ], [ 5.043586017822451, 51.51742180727161 ], [ 5.042555551403947, 51.519275891302314 ], [ 5.041891481052176, 51.520678082065857 ], [ 5.041407681382474, 51.522239345158233 ], [ 5.041512621236007, 51.522760551388856 ], [ 5.042165922484568, 51.522785133600266 ], [ 5.042206000365225, 51.522286999602528 ] ] ] ] } }
+]
+}

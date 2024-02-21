@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Goirle - Wijk 21 Bedrijventerrein Riel (WK078521)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK078521", "wijknaam": "Wijk 21 Bedrijventerrein Riel", "gemeenteco": "GM0785", "gemeentena": "Goirle", "indelingsw": 1, "water": "NEE", "omgevingsa": 242, "stedelijkh": 5, "bevolkings": 1496, "aantalInwo": 130, "mannen": 80, "vrouwen": 55, "percentage": 26, "percenta_1": 6, "percenta_2": 28, "percenta_3": 31, "percenta_4": 9, "percenta_5": 55, "percenta_6": 39, "percenta_7": 6, "percenta_8": 0, "aantalHuis": 50, "percenta_9": 14, "percenta10": 33, "percenta11": 53, "gemiddelde": 2.7, "percenta12": 10, "percenta13": 3, "percenta14": -99999999, "percenta15": -99999999, "percenta16": -99999999, "percenta17": -99999999, "percenta18": -99999999, "oppervlakt": 9, "oppervla_1": 9, "oppervla_2": 0, "jrstatcode": "2022WK078521", "jaar": 2022, "fuuid": "wijken.862131eb-4188-4065-a6cb-4377ef792d9a", "Bestandsna": "Goirle - Wijk 21 Bedrijventerrein Riel (WK078521)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.015631228490106, 51.52288246138064 ], [ 5.017104761561715, 51.520655790189778 ], [ 5.017279929509365, 51.520348571543565 ], [ 5.015489589114725, 51.519802606851549 ], [ 5.013761393999897, 51.519275562771391 ], [ 5.012093393657106, 51.521137956979203 ], [ 5.014602633834254, 51.523161252741936 ], [ 5.015631228490106, 51.52288246138064 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Boxtel - Esch (WK075730)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "wijkcode": "WK075730", "wijknaam": "Esch", "gemeenteco": "GM0757", "gemeentena": "Boxtel", "indelingsw": 1, "water": "NEE", "omgevingsa": 274, "stedelijkh": 5, "bevolkings": 1974, "aantalInwo": 1785, "mannen": 865, "vrouwen": 915, "percentage": 14, "percenta_1": 13, "percenta_2": 16, "percenta_3": 34, "percenta_4": 23, "percenta_5": 41, "percenta_6": 46, "percenta_7": 6, "percenta_8": 6, "aantalHuis": 735, "percenta_9": 27, "percenta10": 36, "percenta11": 37, "gemiddelde": 2.4, "percenta12": 4, "percenta13": 4, "percenta14": 0, "percenta15": 0, "percenta16": 0, "percenta17": 0, "percenta18": 3, "oppervlakt": 93, "oppervla_1": 90, "oppervla_2": 2, "jrstatcode": "2022WK075730", "jaar": 2022, "fuuid": "wijken.cf0b86c3-3679-42ab-b772-884b91ef34df", "Bestandsna": "Boxtel - Esch (WK075730)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 5.29889820923538, 51.616947774863092 ], [ 5.298450497183906, 51.614678804827044 ], [ 5.298526707356218, 51.613107850593529 ], [ 5.296947283860101, 51.609075354416127 ], [ 5.296246128423791, 51.608635720771566 ], [ 5.29590007742621, 51.607573271757147 ], [ 5.290167193603769, 51.605424964927622 ], [ 5.282517438438034, 51.605374099191309 ], [ 5.282556052942652, 51.605391993984085 ], [ 5.283565888617477, 51.6062234922885 ], [ 5.283709129960767, 51.609215893718115 ], [ 5.284749421808074, 51.61040771955301 ], [ 5.288577668226863, 51.614621785017 ], [ 5.296478817957012, 51.617042388500636 ], [ 5.29889820923538, 51.616947774863092 ] ] ] ] } }
+]
+}
