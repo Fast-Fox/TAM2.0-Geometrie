@@ -30,7 +30,7 @@ Veiligheidsregio's
 Waterschappen
 - Grenzen van water- en Hoogheemraadschappen. Grenzen overlappen in een aantal gevallen. Grenzen zijn inclusief binnenwater.  [BRON: https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/8960f402-5a29-4f92-a42f-fa03eacae85d] 
 
-- Wijken
+Wijken
 - Grenzen op wijkniveau. Bestandsnaam bestaat uit gemeenten naam, [optioneel]  wijknaam, wijkcode. Niet alle wijken hebben een naam; het gaat daarbij vooral om buitengebieden. Bestanden staan per gemeente in een submap. [BRON: https://service.pdok.nl/cbs/wijkenbuurten/2022/wfs/v1_0?request=GetCapabilities&service=WFS]
 
  
