@@ -33,4 +33,4 @@ Waterschappen
 Wijken
 - Grenzen op wijkniveau. Bestandsnaam bestaat uit gemeenten naam, [optioneel]  wijknaam, wijkcode. Niet alle wijken hebben een naam; het gaat daarbij vooral om buitengebieden. Bestanden staan per gemeente in een submap. [BRON: https://service.pdok.nl/cbs/wijkenbuurten/2022/wfs/v1_0?request=GetCapabilities&service=WFS]
 
- 
+Mis je nog begrenzingen, stuur me een e-mail: msnel@fast-fox.nl
